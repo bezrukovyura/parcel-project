@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA;EACE;;AAIE;EACE","file":"style.97fcb138.css","sourceRoot":"..","sourcesContent":[".menu {\r\n  display: flex;\r\n\r\n  &__item {\r\n\r\n    &--active {\r\n      color: red;\r\n    }\r\n  }\r\n}"]}

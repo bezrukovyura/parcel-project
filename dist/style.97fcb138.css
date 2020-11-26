@@ -1,0 +1,8 @@
+.menu {
+  display: flex;
+}
+.menu__item--active {
+  color: red;
+}
+
+/*# sourceMappingURL=/style.97fcb138.css.map */

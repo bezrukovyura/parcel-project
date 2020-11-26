@@ -1,0 +1,10 @@
+.menu {
+  display: flex;
+
+  &__item {
+
+    &--active {
+      color: red;
+    }
+  }
+}
